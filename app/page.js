@@ -410,7 +410,7 @@ export default function Home() {
                   <span className="stack-pill">Python</span>
                 </div>
                 <div className="project-links">
-                  <a href="https://github.com/ayushid543" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/ayushid543/MeetingMind" target="_blank" rel="noopener noreferrer">
                     GitHub ↗
                   </a>
                 </div>
